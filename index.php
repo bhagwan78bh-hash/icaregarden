@@ -401,7 +401,7 @@
     </div>
   </section>
 </div>
-
+<script id="_wauopx">var _wau = _wau || []; _wau.push(["small", "88kxtcyo3i", "opx"]);</script><script async src="//waust.at/s.js"></script>
 <footer>
   &copy; 2026 icaregarden. All rights reserved. |
   <a href="terms.html">Terms</a> |
